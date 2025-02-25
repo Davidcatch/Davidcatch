@@ -51,6 +51,6 @@ New Learn
 ---
 
 ### :fire: My Stats :
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidcath&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidcatch&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidcatch&layout=compact)
