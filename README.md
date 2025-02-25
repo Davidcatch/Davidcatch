@@ -51,6 +51,6 @@ New Learn
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Davidcatch&theme=highcontrast)](https://git.io/streak-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidcatch&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidcatch&hide_progress=true)
