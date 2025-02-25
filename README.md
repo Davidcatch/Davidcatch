@@ -7,7 +7,7 @@
   <a href="https://www.youtube.com/@player_game5099">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://www.instagram.com/raihansastra20/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
